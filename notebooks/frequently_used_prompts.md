@@ -2,7 +2,12 @@
 
 本文档是希望迭代出一个 causal ChatGPT 提示词。
 
+
 让生产力加倍的 ChatGPT 快捷指令，按照领域和功能分区，可对提示词进行标签筛选、关键词搜索和一键复制。 https://newzone.top/chatgpt/cn
+个人最喜欢在文档 [link](https://g289c5rl0u.feishu.cn/docx/XG1UdXVZEoh52dxx0EScLKsNnwe) 中更新提示此，本文只选择少量最常用的提示词。
+
+
+
 
 ## Quick Start
 
