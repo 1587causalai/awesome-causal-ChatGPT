@@ -49,6 +49,7 @@
 
 ### 提示样例 （更好地让ChatGPT 回答出）
 
+- 让生产力加倍的 ChatGPT 快捷指令 [ChatGPT ShortCut](https://newzone.top/chatgpt/?tags=code)
 - [英文版的ChatGPT调教指南](https://github.com/f/awesome-chatgpt-prompts)  
 - [中文版的ChatGPT调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
 
