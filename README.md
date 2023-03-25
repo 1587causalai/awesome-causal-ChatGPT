@@ -47,11 +47,11 @@
 - 【RHLF论文】[Augmenting Reinforcement Learning with Human Feedback](https://www.cs.utexas.edu/~ai-lab/pubs/ICML_IL11-knox.pdf)  
 - 【PPO算法论文】[Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347) 
 - 【InstructGPT 同期思想的论文】[Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](https://arxiv.org/pdf/2204.05862.pdf)
-- 【GPT-4 技术报告】[GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4.pdf) :fire:
+- 【GPT-4 技术报告】[GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4.pdf)
 
 ### 提示样例 （更好地让ChatGPT 回答出）
 
-- [英文版的ChatGPT调教指南](https://github.com/f/awesome-chatgpt-prompts)  :star::star::star::star::star:
+- [英文版的ChatGPT调教指南](https://github.com/f/awesome-chatgpt-prompts)  
 - [中文版的ChatGPT调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
 
 ### 视频讲解
