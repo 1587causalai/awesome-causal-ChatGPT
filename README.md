@@ -31,7 +31,6 @@
 ### GPT 通用资源
 
 - [ChatGPT 官方APP](https://chat.openai.com)
-  - [官方] ChatGPT Plus 已推出 `$20/month`
 - [OpenAI API文档](https://beta.openai.com/docs)
   - 官方 [playground](https://platform.openai.com/playground) 
 - [ChatGPT 插件](https://openai.com/blog/chatgpt-plugins) `官方开放插件名单，使得ChatGPT具有更丰富、准确的结果`
