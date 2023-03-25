@@ -1,10 +1,9 @@
 
 
-# Causal ChatGPT 精选资源清单  
+# Awesome Causal ChatGPT   
 
-本项目偏好从 Causal 视角精选相关资料，全面的中文资料清单可参考 [link](https://github.com/1587causalai/awesome-causal-ChatGPT-resource) 
 
-## 提示词工程的因果理论
+## 因果提示词工程
 
 提示词工程看起来是精妙的技巧，但是我个人认为因果之梯和演化论等知识可以帮助和指导我们进行。
 
@@ -25,8 +24,9 @@
 .... _
 
 
-## ChatGPT 相关资源
+## ChatGPT 精选资源清单
 
+偏好从 Causal 视角精选相关资料，全面的中文资料清单可参考 [link](https://github.com/1587causalai/awesome-causal-ChatGPT-resource) 
 
 ### GPT 通用资源
 
