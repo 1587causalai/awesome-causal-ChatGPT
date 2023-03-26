@@ -9,6 +9,7 @@
 - GPT4 知道自己不知道吗？人类校准好像让其失去了这个元认知能力。
 
 
+
 ## 提示词工程背后理论？
 
 提示词工程看起来是精妙的技巧，但是我个人认为因果之梯和演化论等知识可以帮助和指导我们进行。
@@ -25,7 +26,12 @@
 - 第三个问题是“机制”。这个东西的物理机制是什么？人的手有肌肉、骨头、肌腱，还有神经系统等等，它们共同起作用才能实现抓东西的功能。生物化学、分子生物学、神经生物学等等这些学科，都是研究机制的学问。
 - 第四个问题是“成长”。这个东西是怎么生长出来的？人的手，是从妊娠第五周开始就开始生长 ...
 
-Illari P, Russo F. Causality: Philosophical theory meets scientific practice[M]. OUP Oxford, 2014. 
+其他后续思考 TODO:
+- Illari P, Russo F. Causality: Philosophical theory meets scientific practice[M]. OUP Oxford, 2014. 
+- 大模型的涌现
+  - 为什么要大模型，一知半解吃大亏
+- 思维链 Chain of Thought [link](https://www.bilibili.com/video/BV1TD4y137mP?p=31&vd_source=d3d6c6260e5259a5e1b8b098679a13da)
+- Calibration 知道自己是否在胡说八道的元认知能力
 
 
 ### 相关常用因果提示词
