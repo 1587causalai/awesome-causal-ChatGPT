@@ -5,7 +5,9 @@
 如何准确地提出需求，学术界称之为提示（Prompting）。举个例子，当我们询问“最近一次世界杯冠军？”并获得错误答案时，对这一答案进行更正的过程称为神经编辑（Neural Editing）。
 除此之外，学术界还研究其他问题，例如如何检测人工智能生成的内容，以及机器遗忘（Machine Unlearning）（以避免人工智能泄露隐私）。
 
-- Think about it step by step. 
+- Think about it step by step. q
+  - 请给出详细计算过程
+  - 请给初中解释
 - GPT4 知道自己不知道吗？人类校准好像让其失去了这个元认知能力。
 
 
